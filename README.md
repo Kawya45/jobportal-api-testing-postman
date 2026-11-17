@@ -86,4 +86,4 @@ This is the first of my QA projects. See my other work:
 ## Author
 
 **Kawya Jinasoma**, Computer Science student, aspiring QA Engineer
-GitHub: [@Kawya45](https://github.com/Kawya45) · LinkedIn: *add your link here*
+GitHub: [@Kawya45](https://github.com/Kawya45) ·
