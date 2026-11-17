@@ -81,7 +81,7 @@ All testing was done on a local development environment (`localhost:5000`) with 
 
 This is the first of my QA projects. See my other work:
 - [QA Testing Portfolio](https://github.com/Kawya45/QA-Testing-Portfolio)
-- *(Automation testing projects: links coming soon)*
+
 
 ## Author
 
